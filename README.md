@@ -1,5 +1,5 @@
 # math-series
-## LAB - Class 01
+## LAB - Class 02
 ## Author: Rami Ghanem
 
 ## to run fibonacci,lucas,sum_series test series:
