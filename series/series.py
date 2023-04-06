@@ -1,4 +1,13 @@
 def fibonacci(n):
+    """
+    Return the nth number in the Fibonacci sequence.
+    If n is less than 0, return None.
+    If n is 0, return 0.
+    If n is 1, return 1.
+    For n greater than 1, return the sum of the (n-1) and (n-2)
+    numbers in the Fibonacci sequence.
+
+    """
     if n < 0:
         return None
     elif n == 0:
@@ -10,6 +19,14 @@ def fibonacci(n):
 
 
 def lucas(n):
+    """
+    Return the nth number in the Lucas sequence.
+    If n is less than 0, return None.
+    If n is 0, return 2.
+    If n is 1, return 1.
+    For n greater than 1, return the sum of the (n-1) and (n-2)
+    numbers in the Lucas sequence.
+    """
     if n < 0:
         return None
     elif n == 0:
