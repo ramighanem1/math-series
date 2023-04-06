@@ -11,7 +11,7 @@
     //after finishing 
     deactivate
 
-[Code Link](./series.py)
+[Code Link](./series/series.py)
 
 [test Code Link](./tests/test_series.py)
 
